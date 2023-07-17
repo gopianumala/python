@@ -1,0 +1,5 @@
+#123=6
+n=1234
+k=str(n)
+print(k.split())
+
